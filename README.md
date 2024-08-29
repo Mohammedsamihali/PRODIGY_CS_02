@@ -30,9 +30,9 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/geny.git
-   ## commandline steps (encryotion)
-   Enter 'e' for encryption or 'd' for decryption: e
+   https://github.com/Mohammedsamihali/PRODIGY_CS_02.git
+## commandline steps (encryotion)
+Enter 'e' for encryption or 'd' for decryption: e
 Enter the path of the image to encrypt (e.g., image.png): path/to/your/image.png
 Enter the output path for the encrypted image (e.g., encrypted.png): path/to/output/encrypted.png
 Enter encryption key (numeric value, default is 50): 100
